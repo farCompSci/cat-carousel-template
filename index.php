@@ -26,7 +26,11 @@
         <!-- Page content-->
         <div class="container mt-5">
 
-        
+            <?php 
+            
+                echo "Does this work?";
+            
+            ?>        
 
 
 
